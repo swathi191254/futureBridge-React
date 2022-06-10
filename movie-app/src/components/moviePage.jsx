@@ -10,6 +10,8 @@ const MoviePage = () => {
   }, []);
 
   const getMovie = () => {
+    // here i have used local json server because,the heroku app is not working while deploying noje applicati on
+    //
     axios.get("http://localhost:2345/movies").then((res) => {
       setMovie(res.data);
     });
