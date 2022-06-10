@@ -19,17 +19,17 @@ const MoviePage = () => {
       {movie.map((e) => (
         <div className="card">
           <div id="movie-div">
-            <h2>Name :{e.name}</h2>
+            <h2>Movie :{e.name}</h2>
             <p>Rating :{e.rating}</p>
             <p>Year :{e.date}</p>
           </div>
           <div id="movie-div">
-            <h2>Name :{e.name}</h2>
+            <h2>Movie :{e.name}</h2>
             <p>Rating :{e.rating}</p>
             <p>Year :{e.date}</p>
           </div>
           <div id="movie-div">
-            <h2>Name :{e.name}</h2>
+            <h2>Movie :{e.name}</h2>
             <p>Rating :{e.rating}</p>
             <p>Year :{e.date}</p>
           </div>
