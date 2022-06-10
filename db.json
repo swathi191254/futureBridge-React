@@ -1,0 +1,173 @@
+{
+  "movies": [
+    {
+        "_id": "62a2f0a5dd457067cdf6cedc",
+        "name": "bahubali",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:20:05.532Z",
+        "updatedAt": "2022-06-10T07:20:05.532Z"
+    },
+    {
+        "_id": "62a2f0afdd457067cdf6cede",
+        "name": "RRRRR",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:20:15.803Z",
+        "updatedAt": "2022-06-10T07:20:15.803Z"
+    },
+    {
+        "_id": "62a2f0b8dd457067cdf6cee0",
+        "name": "lovers",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:20:24.431Z",
+        "updatedAt": "2022-06-10T07:20:24.431Z"
+    },
+    {
+        "_id": "62a2f0c1dd457067cdf6cee2",
+        "name": "gabbarsingh",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:20:33.944Z",
+        "updatedAt": "2022-06-10T07:20:33.944Z"
+    },
+    {
+        "_id": "62a2f0cedd457067cdf6cee4",
+        "name": "aslam vala",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:20:46.965Z",
+        "updatedAt": "2022-06-10T07:20:46.965Z"
+    },
+    {
+        "_id": "62a2f0d7dd457067cdf6cee6",
+        "name": "pmanfoija",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:20:55.055Z",
+        "updatedAt": "2022-06-10T07:20:55.055Z"
+    },
+    {
+        "_id": "62a2f0dfdd457067cdf6cee8",
+        "name": "mohammad",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:21:03.761Z",
+        "updatedAt": "2022-06-10T07:21:03.761Z"
+    },
+    {
+        "_id": "62a2f0e7dd457067cdf6ceea",
+        "name": "jalsa",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:21:11.644Z",
+        "updatedAt": "2022-06-10T07:21:11.644Z"
+    },
+    {
+        "_id": "62a2f0f0dd457067cdf6ceec",
+        "name": "kushi",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:21:20.382Z",
+        "updatedAt": "2022-06-10T07:21:20.382Z"
+    },
+    {
+        "_id": "62a2f0fcdd457067cdf6ceee",
+        "name": "falseperson",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:21:32.350Z",
+        "updatedAt": "2022-06-10T07:21:32.350Z"
+    },
+    {
+        "_id": "62a2f104dd457067cdf6cef0",
+        "name": "superqueen",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:21:40.405Z",
+        "updatedAt": "2022-06-10T07:21:40.405Z"
+    },
+    {
+        "_id": "62a2f10cdd457067cdf6cef2",
+        "name": "pureman",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:21:48.721Z",
+        "updatedAt": "2022-06-10T07:21:48.721Z"
+    },
+    {
+        "_id": "62a2f112dd457067cdf6cef4",
+        "name": "puremanon",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:21:54.541Z",
+        "updatedAt": "2022-06-10T07:21:54.541Z"
+    },
+    {
+        "_id": "62a2f117dd457067cdf6cef6",
+        "name": "puremanonvajflka",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:21:59.925Z",
+        "updatedAt": "2022-06-10T07:21:59.925Z"
+    },
+    {
+        "_id": "62a2f11cdd457067cdf6cef8",
+        "name": "puremanonvajflkajahfoia",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:22:04.515Z",
+        "updatedAt": "2022-06-10T07:22:04.515Z"
+    },
+    {
+        "_id": "62a2f121dd457067cdf6cefa",
+        "name": "vajflkajahfoia",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:22:09.158Z",
+        "updatedAt": "2022-06-10T07:22:09.158Z"
+    },
+    {
+        "_id": "62a2f3f1ab2615bdf6f328a9",
+        "name": "maharaj",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:34:09.370Z",
+        "updatedAt": "2022-06-10T07:34:09.370Z"
+    },
+    {
+        "_id": "62a2f3f8ab2615bdf6f328ab",
+        "name": "raj",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:34:16.305Z",
+        "updatedAt": "2022-06-10T07:34:16.305Z"
+    },
+    {
+        "_id": "62a2f3fdab2615bdf6f328ad",
+        "name": "rajbavan",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:34:21.532Z",
+        "updatedAt": "2022-06-10T07:34:21.532Z"
+    },
+    {
+        "_id": "62a2f404ab2615bdf6f328af",
+        "name": "motu",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:34:28.061Z",
+        "updatedAt": "2022-06-10T07:34:28.061Z"
+    },
+    {
+        "_id": "62a2f409ab2615bdf6f328b1",
+        "name": "tom",
+        "rating": 8,
+        "date": 1282018,
+        "createdAt": "2022-06-10T07:34:33.493Z",
+        "updatedAt": "2022-06-10T07:34:33.493Z"
+    }
+]
+  
+}
